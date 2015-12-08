@@ -1,0 +1,17 @@
+body {
+    background-color: #2b2b2b;
+    text-align: center;
+}
+
+h1, p {
+    color: #fff;
+}
+
+h1 {
+	font-size: 60pt;
+	padding-top: 20pt;
+
+}
+p {
+	font-size: 24pt
+}
