@@ -1,0 +1,43 @@
+body {
+    background-color: #2b2b2b;
+    color: #f7f7f7;
+    text-align: center;
+}
+
+h1, h2, h3, {
+    color: #f3f3f3;
+}
+
+h1 {
+	font-size: 60pt;
+	padding-top: 20pt;
+}
+
+h2, h3 {
+	font-size: 30pt;
+	font-weight: lighter;
+	font-style: italic;
+	margin: 75px;
+}
+
+
+p {
+	font-size: 30pt;
+	text-align: center;
+}
+
+ul {
+	font-size: 24pt;
+	list-style-type: circle;
+	font-style: italic;
+	list-style-type: none
+}
+
+.white {
+	color: #f7f7f7;
+	text-decoration: underline;
+}
+
+.shrink {
+	max-height: 500px;
+}
